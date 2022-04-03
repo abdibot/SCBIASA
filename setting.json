@@ -1,0 +1,29 @@
+{
+"autobio": false,
+"autoaudio": false,
+"autoread": true,
+"autoketik": false,
+"autovn": false,
+"mode": false,
+"OwnerNumber": "6285824629954",
+"OwnerName": "OWNER KU",
+"BotName": "HELLO BOT",
+"teks2": "*© HELLO BOT²*",
+"bgwel": "https://telegra.ph/file/5fa6532fb8bf0f0e579f2.jpg",
+"modelmenu": "lokasi",
+"modelmenu2": "lokasi",
+"modelmenu3": "fakeitem",
+"modelmenu4": "fakeitem",
+
+"owner1": "6285824629954",
+"owner2": "",
+"owner3": "",
+"owner4": "",
+"owner5": "",
+
+"limitCount": 25,
+"gcount": 20,
+
+"dhakey": "API KEY MU",
+"lolkey": "zetsubot"
+}
